@@ -1,0 +1,26 @@
+estrutura
+organização das ideias
+referencias e gráficos para apoiar as afirmações
+formulações matemáticas -> tecnicamente esta tudo correto 
+
+
+intro
+
+justificação do tema
+
+o que pretendemos -> qual a vantagem de utilizar o que estamos a utilizar
+
+descrição(notações, arquiteturas a desenvolver, loss function, algoritmo de training)
+
+
+
+
+benchmarkting (como vou dividir os dados (train, test), etapas de comparar tecnologias ex: 1 vs all, 1vs1, utilizar base simplificada e passar a sofisticada, como contornar o caso 1vsAll ( desiquilibrio da base de dados)) utilizar cada teste para demonstrar prós e contras de tal tecnologia.
+Conclusão sobre as consequências deste trabalho.
+
+benchmarkting para mostrar propriedades (3 partes - validação do classifier sem alteração(acc com train set e test sett); após aplicação do pooling standart (max, min,avg,..) + tópico de compressão máxima do pooling maior size e stride; investigação (pooling exótico) )
+
+Logistic classifier e pooling ( o que são) -> arquitetura de como são realizados os testes - pooling sem parametrização (sem treino) embora existam pooling que podem ser treinados ex: alfa*max + beta*min; imagem por imagem (é preciso definir o cálculo do gradiente)...
+
+
+

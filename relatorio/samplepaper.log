@@ -1,0 +1,1611 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  27 SEP 2020 20:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**samplepaper
+(./samplepaper.tex
+LaTeX2e <2018-12-01>
+(./llncs.cls
+Document Class: llncs 2018/03/10 v2.20 
+ LaTeX document class for Lecture Notes in Computer Science
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count96
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count97
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen112
+\tocsecnum=\dimen113
+\tocsectotal=\dimen114
+\tocsubsecnum=\dimen115
+\tocsubsectotal=\dimen116
+\tocsubsubsecnum=\dimen117
+\tocsubsubsectotal=\dimen118
+\tocparanum=\dimen119
+\tocparatotal=\dimen120
+\tocsubparanum=\dimen121
+\@tempcntc=\count98
+\fnindent=\dimen122
+\c@@inst=\count99
+\c@@auth=\count100
+\c@auco=\count101
+\instindent=\dimen123
+\authrun=\box53
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box54
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@theorem=\count102
+\c@case=\count103
+\c@conjecture=\count104
+\c@corollary=\count105
+\c@definition=\count106
+\c@example=\count107
+\c@exercise=\count108
+\c@lemma=\count109
+\c@note=\count110
+\c@problem=\count111
+\c@property=\count112
+\c@proposition=\count113
+\c@question=\count114
+\c@solution=\count115
+\c@remark=\count116
+\headlineindent=\dimen124
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count117
+\U@D=\dimen127
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count118
+)
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count119
+\float@exts=\toks21
+\float@box=\box55
+\@float@everytoks=\toks22
+\@floatcapt=\box56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip .
+\c@caption@flags=\count120
+\c@ContinuedFloat=\count121
+Package caption Info: float package is loaded.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count122
+\c@subtable=\count123
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen135
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count124
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count125
+\leftroot@=\count126
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count127
+\DOTSCASE@=\count128
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count129
+\c@MaxMatrixCols=\count130
+\dotsspace@=\muskip10
+\c@parentequation=\count131
+\dspbrk@lvl=\count132
+\tag@help=\toks24
+\row@=\count133
+\column@=\count134
+\maxfields@=\count135
+\andhelp@=\toks25
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks26
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2016/12/28 v2.2 Making table heads with diagonal lines
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks28
+\@arclen=\dimen144
+\@arcrad=\dimen145
+\@tempdimd=\dimen146
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count136
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count137
+\FP@xia=\count138
+\FP@xib=\count139
+\FP@xfa=\count140
+\FP@xfb=\count141
+\FP@rega=\count142
+\FP@regb=\count143
+\FP@regs=\count144
+\FP@times=\count145
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count146
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count147
+\calc@Bcount=\count148
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count149
+\calc@Cskip=\skip50
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box59
+\extrarowheight=\dimen150
+\NC@list=\toks29
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box60
+)
+\diagbox@boxa=\box61
+\diagbox@boxb=\box62
+\diagbox@boxm=\box63
+\diagbox@wd=\dimen151
+\diagbox@ht=\dimen152
+\diagbox@insepl=\dimen153
+\diagbox@insepr=\dimen154
+\diagbox@outsepl=\dimen155
+\diagbox@outsepr=\dimen156
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count150
+\Hy@pagecounter=\count151
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count152
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count153
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen158
+\Fld@menulength=\count154
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count155
+\c@Item=\count156
+\c@Hfootnote=\count157
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count158
+\c@bookmark@seq@number=\count159
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip53
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count160
+\multirow@dima=\skip55
+\bigstrutjot=\dimen161
+)
+(./samplepaper.aux)
+\openout1 = `samplepaper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count161
+\scratchdimen=\dimen162
+\scratchbox=\box64
+\nofMPsegments=\count162
+\nofMParguments=\count163
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count164
+\MPscratchDim=\dimen163
+\MPnumerator=\count165
+\makeMPintoPDFobject=\count166
+\everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring OFF on input line 44.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count167
+)
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
+
+(./samplepaper.out) (./samplepaper.out)
+\@outlinefile=\write3
+\openout3 = `samplepaper.out'.
+
+ (./title.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./glos
+sario.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) [2] (./justificacao.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--47
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 48--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+<./images/sigmoid.png, id=53, 338.26375pt x 260.975pt>
+File: ./images/sigmoid.png Graphic file (type png)
+<use ./images/sigmoid.png>
+Package pdftex.def Info: ./images/sigmoid.png  used on input line 74.
+(pdftex.def)             Requested size: 173.56177pt x 133.90784pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/sigmoid.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 176--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--182
+
+ []
+
+<./images/aplicacaoFiltro.png, id=109, 576.1525pt x 377.41pt>
+File: ./images/aplicacaoFiltro.png Graphic file (type png)
+<use ./images/aplicacaoFiltro.png>
+Package pdftex.def Info: ./images/aplicacaoFiltro.png  used on input line 219.
+(pdftex.def)             Requested size: 138.84993pt x 90.95456pt.
+<./images/aplicacaostride.png, id=110, 576.1525pt x 377.41pt>
+File: ./images/aplicacaostride.png Graphic file (type png)
+<use ./images/aplicacaostride.png>
+Package pdftex.def Info: ./images/aplicacaostride.png  used on input line 224.
+(pdftex.def)             Requested size: 138.85086pt x 93.89156pt.
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 217--227
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+ [8]
+<./images/pooling.png, id=117, 1430.34375pt x 650.43pt>
+File: ./images/pooling.png Graphic file (type png)
+<use ./images/pooling.png>
+Package pdftex.def Info: ./images/pooling.png  used on input line 238.
+(pdftex.def)             Requested size: 277.69987pt x 126.28252pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--258
+
+ []
+
+[9 <./images/aplicacaoFiltro.png> <./images/aplicacaostride.png> <./images/pool
+ing.png>]
+<./images/maxpooling.png, id=130, 688.5725pt x 335.2525pt>
+File: ./images/maxpooling.png Graphic file (type png)
+<use ./images/maxpooling.png>
+Package pdftex.def Info: ./images/maxpooling.png  used on input line 264.
+(pdftex.def)             Requested size: 277.69987pt x 135.20357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--279
+
+ []
+
+<./images/minpooling.png, id=131, 670.505pt x 299.1175pt>
+File: ./images/minpooling.png Graphic file (type png)
+<use ./images/minpooling.png>
+Package pdftex.def Info: ./images/minpooling.png  used on input line 285.
+(pdftex.def)             Requested size: 277.69987pt x 123.88042pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./images/maxpooling.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 292--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--300
+
+ []
+
+<./images/avgpooling.png, id=142, 657.45625pt x 278.03876pt>
+File: ./images/avgpooling.png Graphic file (type png)
+<use ./images/avgpooling.png>
+Package pdftex.def Info: ./images/avgpooling.png  used on input line 306.
+(pdftex.def)             Requested size: 277.69987pt x 117.44154pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--321
+
+ []
+
+[11 <./images/minpooling.png> <./images/avgpooling.png>]
+<./images/maxavgpooling.png, id=153, 666.49pt x 293.095pt>
+File: ./images/maxavgpooling.png Graphic file (type png)
+<use ./images/maxavgpooling.png>
+Package pdftex.def Info: ./images/maxavgpooling.png  used on input line 327.
+(pdftex.def)             Requested size: 277.69987pt x 122.1241pt.
+<./images/3.png, id=154, 340.27126pt x 493.845pt>
+File: ./images/3.png Graphic file (type png)
+<use ./images/3.png>
+Package pdftex.def Info: ./images/3.png  used on input line 345.
+(pdftex.def)             Requested size: 69.42375pt x 85.35413pt.
+<./images/8.png, id=155, 226.8475pt x 332.24126pt>
+File: ./images/8.png Graphic file (type png)
+<use ./images/8.png>
+Package pdftex.def Info: ./images/8.png  used on input line 349.
+(pdftex.def)             Requested size: 69.42203pt x 93.89381pt.
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 343--351
+[]$[]$ $[]$ 
+ []
+
+[12 <./images/maxavgpooling.png> <./images/3.png> <./images/8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--360
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--360
+
+ []
+
+<./images/3_1.png, id=166, 340.27126pt x 493.845pt>
+File: ./images/3_1.png Graphic file (type png)
+<use ./images/3_1.png>
+Package pdftex.def Info: ./images/3_1.png  used on input line 367.
+(pdftex.def)             Requested size: 69.42375pt x 85.35413pt.
+<./images/8_1.png, id=167, 226.8475pt x 332.24126pt>
+File: ./images/8_1.png Graphic file (type png)
+<use ./images/8_1.png>
+Package pdftex.def Info: ./images/8_1.png  used on input line 371.
+(pdftex.def)             Requested size: 69.42203pt x 93.89381pt.
+<./images/3_2.png, id=168, 495.8525pt x 561.09625pt>
+File: ./images/3_2.png Graphic file (type png)
+<use ./images/3_2.png>
+Package pdftex.def Info: ./images/3_2.png  used on input line 375.
+(pdftex.def)             Requested size: 86.77548pt x 99.58029pt.
+<./images/8_2.png, id=169, 348.30125pt x 390.45876pt>
+File: ./images/8_2.png Graphic file (type png)
+<use ./images/8_2.png>
+Package pdftex.def Info: ./images/8_2.png  used on input line 379.
+(pdftex.def)             Requested size: 86.77747pt x 108.11824pt.
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 365--381
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 365--381
+[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--411
+
+ []
+
+[13 <./images/3_1.png> <./images/8_1.png> <./images/3_2.png> <./images/8_2.png>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 415--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--456
+
+ []
+
+[14] [15])
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--52
+
+ []
+
+[16] (./Objetivo.tex) (./descricao.tex
+<./images/f_prep_data.png, id=209, 861.2175pt x 326.21875pt>
+File: ./images/f_prep_data.png Graphic file (type png)
+<use ./images/f_prep_data.png>
+Package pdftex.def Info: ./images/f_prep_data.png  used on input line 22.
+(pdftex.def)             Requested size: 347.12354pt x 131.48569pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+<./images/f_stocastic.png, id=223, 803.0pt x 279.0425pt>
+File: ./images/f_stocastic.png Graphic file (type png)
+<use ./images/f_stocastic.png>
+Package pdftex.def Info: ./images/f_stocastic.png  used on input line 47.
+(pdftex.def)             Requested size: 347.12354pt x 120.62886pt.
+
+Underfull \vbox (badness 3746) has occurred while \output is active []
+
+ [18 <./images/f_prep_data.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+<./images/f_predictor.png, id=233, 261.97874pt x 119.44624pt>
+File: ./images/f_predictor.png Graphic file (type png)
+<use ./images/f_predictor.png>
+Package pdftex.def Info: ./images/f_predictor.png  used on input line 64.
+(pdftex.def)             Requested size: 138.84729pt x 63.30801pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+<./images/f_sigmoid.png, id=235, 352.31625pt x 117.43875pt>
+File: ./images/f_sigmoid.png Graphic file (type png)
+<use ./images/f_sigmoid.png>
+Package pdftex.def Info: ./images/f_sigmoid.png  used on input line 80.
+(pdftex.def)             Requested size: 173.56177pt x 57.8537pt.
+[19 <./images/f_stocastic.png> <./images/f_predictor.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
+
+ []
+
+<./images/f_cost.png, id=249, 521.95pt x 215.80624pt>
+File: ./images/f_cost.png Graphic file (type png)
+<use ./images/f_cost.png>
+Package pdftex.def Info: ./images/f_cost.png  used on input line 97.
+(pdftex.def)             Requested size: 242.98541pt x 100.46411pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
+
+ []
+
+<./images/f_update.png, id=250, 277.035pt x 157.58875pt>
+File: ./images/f_update.png Graphic file (type png)
+<use ./images/f_update.png>
+Package pdftex.def Info: ./images/f_update.png  used on input line 114.
+(pdftex.def)             Requested size: 138.84729pt x 78.98172pt.
+[20 <./images/f_sigmoid.png> <./images/f_cost.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+<./images/f_max.png, id=261, 216.81pt x 48.18pt>
+File: ./images/f_max.png Graphic file (type png)
+<use ./images/f_max.png>
+Package pdftex.def Info: ./images/f_max.png  used on input line 135.
+(pdftex.def)             Requested size: 104.1381pt x 23.14229pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+<./images/f_min.png, id=262, 209.78375pt x 47.17625pt>
+File: ./images/f_min.png Graphic file (type png)
+<use ./images/f_min.png>
+Package pdftex.def Info: ./images/f_min.png  used on input line 150.
+(pdftex.def)             Requested size: 104.1381pt x 23.41817pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+
+ []
+
+<./images/f_avg.png, id=263, 320.19624pt x 52.195pt>
+File: ./images/f_avg.png Graphic file (type png)
+<use ./images/f_avg.png>
+Package pdftex.def Info: ./images/f_avg.png  used on input line 166.
+(pdftex.def)             Requested size: 173.56177pt x 28.29239pt.
+[21 <./images/f_update.png> <./images/f_max.png> <./images/f_min.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+<./images/f_max_centered.png, id=278, 469.755pt x 51.19125pt>
+File: ./images/f_max_centered.png Graphic file (type png)
+<use ./images/f_max_centered.png>
+Package pdftex.def Info: ./images/f_max_centered.png  used on input line 182.
+(pdftex.def)             Requested size: 242.98541pt x 26.47899pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+[22 <./images/f_avg.png> <./images/f_max_centered.png>]
+<./images/f_diag_plus_vert.png, id=292, 542.025pt x 218.8175pt>
+File: ./images/f_diag_plus_vert.png Graphic file (type png)
+<use ./images/f_diag_plus_vert.png>
+Package pdftex.def Info: ./images/f_diag_plus_vert.png  used on input line 208.
+
+(pdftex.def)             Requested size: 242.98541pt x 98.093pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+<./images/f_diag_plus_vert_max_centered.png, id=293, 548.0475pt x 224.84pt>
+File: ./images/f_diag_plus_vert_max_centered.png Graphic file (type png)
+<use ./images/f_diag_plus_vert_max_centered.png>
+Package pdftex.def Info: ./images/f_diag_plus_vert_max_centered.png  used on in
+put line 224.
+(pdftex.def)             Requested size: 242.98541pt x 99.6881pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--235
+
+ []
+
+[23 <./images/f_diag_plus_vert.png> <./images/f_diag_plus_vert_max_centered.png
+>]
+<./images/f_diag_vert_max.png, id=304, 547.04375pt x 258.9675pt>
+File: ./images/f_diag_vert_max.png Graphic file (type png)
+<use ./images/f_diag_vert_max.png>
+Package pdftex.def Info: ./images/f_diag_vert_max.png  used on input line 242.
+(pdftex.def)             Requested size: 277.69987pt x 131.46312pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--252
+
+ []
+
+<./images/f_diag_vert_min_avg.png, id=305, 758.835pt x 258.9675pt>
+File: ./images/f_diag_vert_min_avg.png Graphic file (type png)
+<use ./images/f_diag_vert_min_avg.png>
+Package pdftex.def Info: ./images/f_diag_vert_min_avg.png  used on input line 2
+58.
+(pdftex.def)             Requested size: 347.12354pt x 118.46262pt.
+<./images/f_windows.png, id=306, 648.4225pt x 426.59375pt>
+File: ./images/f_windows.png Graphic file (type png)
+<use ./images/f_windows.png>
+Package pdftex.def Info: ./images/f_windows.png  used on input line 271.
+(pdftex.def)             Requested size: 277.69987pt x 182.69618pt.
+[24 <./images/f_diag_vert_max.png> <./images/f_diag_vert_min_avg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+ []
+
+<./images/f_slidewindow.png, id=318, 892.33376pt x 315.1775pt>
+File: ./images/f_slidewindow.png Graphic file (type png)
+<use ./images/f_slidewindow.png>
+Package pdftex.def Info: ./images/f_slidewindow.png  used on input line 291.
+(pdftex.def)             Requested size: 347.12354pt x 122.60612pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./images/f_windows.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+<./images/f_confusao.png, id=327, 478.78876pt x 167.62625pt>
+File: ./images/f_confusao.png Graphic file (type png)
+<use ./images/f_confusao.png>
+Package pdftex.def Info: ./images/f_confusao.png  used on input line 318.
+(pdftex.def)             Requested size: 277.69987pt x 97.22328pt.
+
+Underfull \vbox (badness 1173) has occurred while \output is active []
+
+ [26 <./images/f_slidewindow.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+
+ []
+
+<./images/f_accuracy.png, id=336, 496.85625pt x 83.31125pt>
+File: ./images/f_accuracy.png Graphic file (type png)
+<use ./images/f_accuracy.png>
+Package pdftex.def Info: ./images/f_accuracy.png  used on input line 334.
+(pdftex.def)             Requested size: 277.69987pt x 46.5637pt.
+) [27 <./images/f_confusao.png> <./images/f_accuracy.png>] (./conclusao.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+<./images/erros2_v1.png, id=352, 1192.455pt x 733.74126pt>
+File: ./images/erros2_v1.png Graphic file (type png)
+<use ./images/erros2_v1.png>
+Package pdftex.def Info: ./images/erros2_v1.png  used on input line 23.
+(pdftex.def)             Requested size: 242.98541pt x 149.51105pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+<./images/confusao2_v1.png, id=359, 489.83pt x 432.61626pt>
+File: ./images/confusao2_v1.png Graphic file (type png)
+<use ./images/confusao2_v1.png>
+Package pdftex.def Info: ./images/confusao2_v1.png  used on input line 33.
+(pdftex.def)             Requested size: 208.27623pt x 183.9486pt.
+
+[29 <./images/erros2_v1.png> <./images/confusao2_v1.png>] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
+
+ []
+
+[31]
+<./images/first_result.png, id=388, 193.72375pt x 157.58875pt>
+File: ./images/first_result.png Graphic file (type png)
+<use ./images/first_result.png>
+Package pdftex.def Info: ./images/first_result.png  used on input line 133.
+(pdftex.def)             Requested size: 104.1381pt x 84.71431pt.
+<./images/worst_result.png, id=389, 202.7575pt x 148.555pt>
+File: ./images/worst_result.png Graphic file (type png)
+<use ./images/worst_result.png>
+Package pdftex.def Info: ./images/worst_result.png  used on input line 138.
+(pdftex.def)             Requested size: 116.28606pt x 85.20084pt.
+
+Overfull \hbox (2.05505pt too wide) in paragraph at lines 131--141
+[]$[]$ $[]$ 
+ []
+
+) [32 <./images/first_result.png> <./images/worst_result.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
+ [33]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+
+(./samplepaper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package rerunfilecheck Info: File `samplepaper.out' has not changed.
+(rerunfilecheck)             Checksum: 958CB5BAC5A2A84994D36029B45DE790;122.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
+ ) 
+Here is how much of TeX's memory you used:
+ 9616 strings out of 492616
+ 139466 string characters out of 6129481
+ 271185 words of memory out of 5000000
+ 13195 multiletter control sequences out of 15000+600000
+ 18276 words of font info for 47 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 36i,18n,39p,908b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pf
+b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2019/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2019/texmf-dist/
+fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2019/texmf-dist/fo
+nts/type1/public/cm-super/sfti0900.pfb></usr/local/texlive/2019/texmf-dist/font
+s/type1/public/cm-super/sfti1000.pfb>
+Output written on samplepaper.pdf (33 pages, 1275079 bytes).
+PDF statistics:
+ 516 PDF objects out of 1000 (max. 8388607)
+ 351 compressed objects within 4 object streams
+ 129 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
+

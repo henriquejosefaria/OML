@@ -1,0 +1,85 @@
+% This is samplepaper.tex, a sample chapter demonstrating the
+% LLNCS macro package for Springer Computer Science proceedings;
+% Version 2.20 of 2017/10/04
+%
+\documentclass[runningheads]{llncs}
+%
+\usepackage{graphicx}
+\usepackage[portuges]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{verbatim}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{diagbox}
+\usepackage[hidelinks]{hyperref}
+\usepackage{slashbox,multirow}
+%Path relative to the .tex file containing the \includegraphics command
+\graphicspath{ {./images/} }
+% Used for displaying a sample figure. If possible, figure files should
+% be included in EPS format.
+%
+% If you use the hyperref package, please uncomment the following line
+% to display URLs in blue roman font according to Springer's eBook style:
+% \renewcommand\UrlFont{\color{blue}\rmfamily}
+\setcounter{secnumdepth}{6}
+\renewcommand\theparagraph{\Alph{paragraph}}
+ 
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+                                      {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                      {0.0001pt \@plus .2ex}%
+                                      {\normalfont\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\z@}%
+                                      {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                      {0.0001pt \@plus .2ex}%
+                                      {\normalfont\normalsize\bfseries}}
+ 
+\counterwithin{paragraph}{subsubsection}
+\counterwithin{subparagraph}{paragraph}
+\makeatother
+\hyphenation{ProcessID}
+\begin{document}
+\input{title.tex}
+\newpage
+\input{glossario.tex}
+\newpage
+\hfill
+% Aqui começam os capitulos abordados pelo trabalho
+\input{justificacao.tex}
+\newpage
+\input{Objetivo.tex}
+\newpage
+\input{descricao.tex}
+\newpage
+\input{conclusao.tex}
+\newpage
+
+%
+% ---- Bibliography ----
+%
+% BibTeX users should specify bibliography style 'splncs04'.
+% References will then be sorted and formatted in the correct style.
+%
+% \bibliographystyle{splncs04}
+% \bibliography{mybibliography}
+%
+\begin{thebibliography}{8}
+
+%\bibitem{ref_intro1}
+%https://www.itu.int/en/ITU-D/Statistics/Pages/stat/default.aspx
+\bibitem{ref1} Ian Goodfellow, Yoshua Bengio and Aaron Courville. \href{http://www.deeplearningbook.org/contents/TOC.html}{\textit{Deep Learning}}. MIT Press, 2016.
+\bibitem{ref2} Kevin P. Murphy. \textit{Machine Learning: A Probabilistic Perspective}. MIT Press, 2012.
+\bibitem{ref3} Trevor Hastie, Robert Tibshirani and Jerome Friedman. \textit{The Elements of Statistical Learning Data Mining, Inference, and Prediction}. Springer, Janeiro 13 de 2017.
+\bibitem{ref4} John D. Keller, Brian Mac Namee and Aoife D'Arcy. \textit{Fundamentals of Machine Learning For Predictive Data Analytics}. MIT Press, 2015.
+\bibitem{ref5} Mehryar Mohri, Afshin Rostamizadeh and Ameet Talwalkar. \textit{Foundations of Machine Learning}. MIT Press, 2018.
+\bibitem{ref6} Josh Hugh Learning. \textit{Python Machine Learning}. JHL.
+\bibitem{ref7} Charu C. Aggarwal. \textit{Linear Algebra and Optimization for Machine Learning}. Springer, 2020.
+\bibitem{ref8} Ivan Vasilev, Daniel Slater, Gianmario Spacagna, Peter Roelants and Valentino Zocca. \textit{Python Deep Learning}. Packt, 2019.
+\bibitem{ref9} Nathalie Japkowicz. \textit{Evaluating Learning Algorithms: A Classification Perspective}. cambridge university press, 2011.
+\end{thebibliography}
+%\input{anexo.tex}
+
+\end{document}

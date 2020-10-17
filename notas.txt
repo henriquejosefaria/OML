@@ -1,0 +1,11 @@
+stride -> avanço entre janelas deslizantes
+
+identificar diferentes formas de fazer pooling e identificar melhor os dados, melhor redução pooling ais eficiente -> parametros(stride,size e tipo de pooling).
+
+80% para treino 20% para teste
+
+matriz de confusão para treino e teste -> indicadores de qualidade
+
+ter classificação sobre dados originais 
+
+implementar o logistic classifier ler ficheiros atribuir labels e fazer experiencias sobre erros (matriz de confusão) - sugestão usar formato ASCII - ler os ficheiros e gravar os ficheiros com o mesmo formato, não usar formatos destrutivos exeplo a usar(pgm ou outro formato)
